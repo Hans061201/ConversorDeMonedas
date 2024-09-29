@@ -23,15 +23,9 @@ programa a continuación tendra un visión más detallada.
 
 Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
-1. **Clonar el repositorio**
+ **Clonar el repositorio**
  ```bash
    git clone https://github.com/Hans061201/Encriptador-de-texto.git
 ```
-2. **Navegar al directorio del proyecto**
- ```Navega al directorio del proyecto
-   cd Encriptador-de-texto
-```
-3. **Abrir el archivo `index.html`**
- ```bash
-   start index.html
+t index.html
 ```
