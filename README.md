@@ -15,9 +15,11 @@ programa a continuación tendra un visión más detallada.
 ## Funcionamiento
 
 *  Seleccionas tu moneda a cambiar
+  
 ![image](https://github.com/user-attachments/assets/717b98bf-6017-4bbb-905c-acb2391a3000)
 
-*  Seleccionas tu moneda de destino 
+*  Seleccionas tu moneda de destino
+  
 ![image](https://github.com/user-attachments/assets/93e8465d-7566-424c-a3e6-861802d2e473)
 
 * Impresión por consola
